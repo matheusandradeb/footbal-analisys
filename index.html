@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Analista de Futebol — Histórico de Apostas</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar-inner">
+    <h1>⚽ Analista de Futebol</h1>
+    <p class="subtitle">Histórico de recomendações — Over 2.5, Ambas Marcam, Vencedor da Partida, Jogador marcar gol, Jogador chutes ao gol</p>
+  </div>
+</header>
+
+<main>
+  <section id="pending-alert" class="pending-alert hidden">
+    <span id="pending-alert-text"></span>
+  </section>
+
+  <section class="stats-grid" id="stats-grid" aria-label="Resumo de desempenho">
+    <div class="stat-card">
+      <span class="stat-label">Taxa de acerto geral</span>
+      <span class="stat-value" id="stat-taxa">—</span>
+      <span class="stat-sub" id="stat-taxa-sub">—</span>
+    </div>
+    <div class="stat-card stat-green">
+      <span class="stat-label">Green</span>
+      <span class="stat-value" id="stat-green">—</span>
+    </div>
+    <div class="stat-card stat-red">
+      <span class="stat-label">Red</span>
+      <span class="stat-value" id="stat-red">—</span>
+    </div>
+    <div class="stat-card stat-pending">
+      <span class="stat-label">Pendentes</span>
+      <span class="stat-value" id="stat-pendente">—</span>
+    </div>
+  </section>
+
+  <section class="breakdown" id="breakdown-section">
+    <h2>Desempenho por mercado</h2>
+    <div class="breakdown-grid" id="breakdown-grid"></div>
+  </section>
+
+  <section class="filters" aria-label="Filtros">
+    <select id="filter-liga"><option value="">Todas as ligas</option></select>
+    <select id="filter-mercado"><option value="">Todos os mercados</option></select>
+    <select id="filter-status">
+      <option value="">Todos os status</option>
+      <option value="pendente">Pendente</option>
+      <option value="green">Green</option>
+      <option value="red">Red</option>
+    </select>
+    <button id="refresh-btn" type="button">↻ Verificar pendências</button>
+  </section>
+
+  <section class="table-wrap" aria-label="Histórico de recomendações">
+    <table id="history-table">
+      <thead>
+        <tr>
+          <th>Data jogo</th>
+          <th>Liga</th>
+          <th>Confronto</th>
+          <th>Mercado</th>
+          <th>Jogador</th>
+          <th>Odd ref.</th>
+          <th>Confiança</th>
+          <th>Status</th>
+          <th>Resultado</th>
+        </tr>
+      </thead>
+      <tbody id="history-tbody"></tbody>
+    </table>
+    <p id="empty-state" class="empty-state hidden">Nenhuma recomendação encontrada com esses filtros.</p>
+  </section>
+
+  <footer class="footer">
+    <p>Dados gerados pelo agente <code>analista-futebol</code> (Claude Code). Odds são referências de busca — confirme sempre na sua casa de apostas antes de apostar. Sem martingale, sem recuperação de perdas, stake fixo.</p>
+    <p class="last-updated" id="last-updated"></p>
+  </footer>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "2026-07-16-vitoria-x-vasco-vencedor",
+    "data_analise": "2026-07-13",
+    "data_jogo": "2026-07-16",
+    "liga": "Brasileirão Série A",
+    "confronto": "Vitória x Vasco da Gama",
+    "mercado": "Vencedor da Partida - Vitória",
+    "odd_referencia": 2.2,
+    "confianca": "Média-Alta",
+    "justificativa_resumo": "Jogo de volta do Brasileirão pós-Copa do Mundo (rodada 19), 16/07 no Barradão. Vitória (13º, 22 pts) em ótima forma pré-pausa: 4 vitórias nos últimos 5 jogos, 11 gols marcados x 8 sofridos, e histórico forte em casa (3V 1E nos últimos 4 jogos como mandante, 8x1 no saldo). Vasco (17º, 20 pts) em forma ruim: apenas 1 vitória nos últimos 5, 5 marcados x 11 sofridos, vinha de derrotas por 3-0 (Bragantino) e 1-4 (Internacional) antes da pausa, torcida pressionando o técnico Renato Gaúcho. Vasco ainda desfalcado de Philippe Coutinho (recuperação) e Jair (lesão longa). Fontes: Vitória/Vasco forma e odds via oddslot.com e kickoff.co.uk (cruzados), desfalques via flashscore.com.br e soccerway. Odd de referência 2.20-2.35 encontrada em mais de uma fonte; usar a mais conservadora.",
+    "status": "green",
+    "resultado_real": "Vitória 1 x 0 Vasco (gol de Renato Kayser aos 24' do 2T)",
+    "observacoes": ""
+  },
+  {
+    "id": "2026-07-18-lillestrom-x-kfum-oslo-vencedor",
+    "data_analise": "2026-07-18",
+    "data_jogo": "2026-07-18",
+    "liga": "Noruega - Eliteserien",
+    "confronto": "Lillestrøm x KFUM Oslo",
+    "mercado": "Vencedor da Partida - Lillestrøm",
+    "jogador": null,
+    "odd_referencia": 1.71,
+    "confianca": "Média",
+    "justificativa_resumo": "Temporada atual como base para os dois lados (Lillestrøm ~11 jogos, KFUM ~11 jogos). Lillestrøm 4º colocado (19 pts), 5V 2E nos últimos 10 em casa, venceu o último jogo por 2-0 fora. KFUM 12º colocado (12 pts), quase metade dos jogos com derrota, 0 vitórias nos últimos 5 jogos fora de casa, perdeu por 0-2 na rodada anterior. Confronto direto reforça: Lillestrøm venceu 4 dos últimos 5 encontros. Fontes cruzadas: oddspedia.com, wincomparator.com, sportsmole.co.uk. Confiança reduzida a Média por depender de agregadores de odds/stats (menor cobertura de fontes primárias tipo FBref/Understat nesta liga).",
+    "status": "green",
+    "resultado_real": "Lillestrøm 2 x 1 KFUM Oslo (KFUM saiu na frente aos 5' com Rasmus Eggen Vinge, Lillestrøm empatou aos 6' com Gustav Kjolstad Nyheim e virou aos 85' com Felix Vá)",
+    "observacoes": ""
+  },
+  {
+    "id": "2026-07-19-elfsborg-x-sirius-vencedor",
+    "data_analise": "2026-07-18",
+    "data_jogo": "2026-07-19",
+    "liga": "Suécia - Allsvenskan",
+    "confronto": "Elfsborg x IK Sirius",
+    "mercado": "Vencedor da Partida - IK Sirius",
+    "jogador": null,
+    "odd_referencia": 1.97,
+    "confianca": "Média",
+    "justificativa_resumo": "Temporada atual como base para os dois lados (Elfsborg 13 jogos, Sirius 12 jogos). Sirius lidera a Allsvenskan com folga (32 pts em 12 rodadas), invicto nos últimos 13 jogos em todas as competições, venceu 5 de 6 jogos fora de casa nesta temporada. Elfsborg em 7º (18 pts), vem de derrotas para Hammarby e GAIS nos últimos jogos. Confronto direto reforça: Sirius venceu 3 dos últimos 4 encontros. Fontes cruzadas: betclan.com, ratingbet.com, foresportia.com. Confiança Média pelo mesmo motivo de dependência de agregadores nesta liga.",
+    "status": "pendente",
+    "resultado_real": null,
+    "observacoes": ""
+  },
+  {
+    "id": "2026-07-19-halmstad-x-hacken-btts",
+    "data_analise": "2026-07-18",
+    "data_jogo": "2026-07-19",
+    "liga": "Suécia - Allsvenskan",
+    "confronto": "Halmstads BK x BK Häcken",
+    "mercado": "Ambas Marcam",
+    "jogador": null,
+    "odd_referencia": 2.13,
+    "confianca": "Média",
+    "justificativa_resumo": "Temporada atual como base para os dois lados (Halmstad 12 jogos, Häcken 12 jogos). Halmstad é lanterna (6 pts em 12 jogos) com ataque e defesa fracos, mas BTTS em 4 dos últimos 5 jogos em casa. Häcken (3º colocado, 20 pts) vem de 2 derrotas seguidas sofrendo 8 gols e marcando 8 nesse intervalo (todos os jogos recentes com BTTS e over 2.5). Odd de Over 2.5 encontrada (1.53) ficou abaixo da odd mínima do mercado e foi descartada; BTTS manteve odd válida (2.13, Bet365/agregador). Fontes cruzadas: bet-experts.com, sportsbettingam.com, ratingbet.com. Confiança Média pela dependência de agregadores nesta liga.",
+    "status": "pendente",
+    "resultado_real": null,
+    "observacoes": ""
+  }
+]
