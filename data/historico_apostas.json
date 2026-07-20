@@ -39,8 +39,8 @@
     "odd_referencia": 1.97,
     "confianca": "Média",
     "justificativa_resumo": "Temporada atual como base para os dois lados (Elfsborg 13 jogos, Sirius 12 jogos). Sirius lidera a Allsvenskan com folga (32 pts em 12 rodadas), invicto nos últimos 13 jogos em todas as competições, venceu 5 de 6 jogos fora de casa nesta temporada. Elfsborg em 7º (18 pts), vem de derrotas para Hammarby e GAIS nos últimos jogos. Confronto direto reforça: Sirius venceu 3 dos últimos 4 encontros. Fontes cruzadas: betclan.com, ratingbet.com, foresportia.com. Confiança Média pelo mesmo motivo de dependência de agregadores nesta liga.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Elfsborg 1 x 3 IK Sirius (gol contra de O. Krusnell aos 88' para Elfsborg; Sirius: M. Soumah aos 82', R. Ure aos 84' e 90')",
     "observacoes": ""
   },
   {
@@ -54,8 +54,8 @@
     "odd_referencia": 2.13,
     "confianca": "Média",
     "justificativa_resumo": "Temporada atual como base para os dois lados (Halmstad 12 jogos, Häcken 12 jogos). Halmstad é lanterna (6 pts em 12 jogos) com ataque e defesa fracos, mas BTTS em 4 dos últimos 5 jogos em casa. Häcken (3º colocado, 20 pts) vem de 2 derrotas seguidas sofrendo 8 gols e marcando 8 nesse intervalo (todos os jogos recentes com BTTS e over 2.5). Odd de Over 2.5 encontrada (1.53) ficou abaixo da odd mínima do mercado e foi descartada; BTTS manteve odd válida (2.13, Bet365/agregador). Fontes cruzadas: bet-experts.com, sportsbettingam.com, ratingbet.com. Confiança Média pela dependência de agregadores nesta liga.",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "Halmstads BK 0 x 2 BK Häcken (Gustav Lindgren aos 50' e 57')",
+    "observacoes": "Variância normal, não erro de leitura. Halmstad teve 46% de posse e 4 chutes ao gol em 9 finalizações (44% de aproveitamento) mas não converteu nenhuma; Häcken foi clínico com apenas 2 chutes ao gol para 2 gols (Lindgren decisivo). O padrão apontado (Halmstad marca e sofre com frequência em casa) se confirmou parcialmente na criação de chances, mas a conversão de Halmstad falhou e a eficiência ofensiva do Häcken fechou o jogo sem o time da casa balançar as redes."
   }
 ]
