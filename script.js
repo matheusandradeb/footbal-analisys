@@ -20,13 +20,19 @@ function statusBadge(bet) {
   return `<span class="badge badge-pendente">Pendente</span>`;
 }
 
+function fmtBRL(value) {
+  return value.toLocaleString("pt-BR", { style: "currency", currency: "BRL" });
+}
+
 function computeStats(bets) {
   const decided = bets.filter((b) => b.status === "green" || b.status === "red");
   const green = decided.filter((b) => b.status === "green").length;
   const red = decided.filter((b) => b.status === "red").length;
   const pendente = bets.length - decided.length;
   const taxa = decided.length ? Math.round((green / decided.length) * 100) : null;
-  return { total: bets.length, green, red, pendente, taxa, decidedCount: decided.length };
+  const lucro = decided.reduce((sum, b) => sum + (typeof b.lucro === "number" ? b.lucro : 0), 0);
+  const staked = decided.reduce((sum, b) => sum + (typeof b.stake === "number" ? b.stake : 0), 0);
+  return { total: bets.length, green, red, pendente, taxa, decidedCount: decided.length, lucro, staked };
 }
 
 function computeBreakdown(bets) {
@@ -56,6 +62,15 @@ function renderStats(bets) {
   document.getElementById("stat-green").textContent = s.green;
   document.getElementById("stat-red").textContent = s.red;
   document.getElementById("stat-pendente").textContent = s.pendente;
+
+  const lucroEl = document.getElementById("stat-lucro");
+  const lucroCard = document.getElementById("stat-lucro-card");
+  lucroEl.textContent = s.decidedCount ? fmtBRL(s.lucro) : "—";
+  lucroCard.classList.remove("stat-lucro-positive", "stat-lucro-negative");
+  if (s.decidedCount) lucroCard.classList.add(s.lucro >= 0 ? "stat-lucro-positive" : "stat-lucro-negative");
+  document.getElementById("stat-lucro-sub").textContent = s.decidedCount
+    ? `Staked total: ${fmtBRL(s.staked)}`
+    : "Sem apostas decididas ainda";
 }
 
 function renderBreakdown(bets) {
@@ -154,6 +169,9 @@ function renderTable() {
       <td>${b.odd_referencia ?? "—"}</td>
       <td>${b.confianca || "—"}</td>
       <td>${statusBadge(b)}</td>
+      <td class="${typeof b.lucro === "number" ? (b.lucro >= 0 ? "lucro-positive" : "lucro-negative") : ""}">${
+        typeof b.lucro === "number" ? fmtBRL(b.lucro) : "—"
+      }</td>
       <td>${b.resultado_real || "—"}</td>
     </tr>`
     )
