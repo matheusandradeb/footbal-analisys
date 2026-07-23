@@ -104,7 +104,7 @@
   {
     "id": "2026-07-22-botafogo-x-vitoria-over25",
     "data_analise": "2026-07-22",
-    "data_jogo": "2026-07-22",
+    "data_jogo": "2026-07-23",
     "liga": "Brasileirão Série A",
     "confronto": "Botafogo x Vitória",
     "mercado": "Over 2.5",
@@ -113,10 +113,10 @@
     "stake": 100,
     "lucro": null,
     "confianca": "Alta",
-    "justificativa_resumo": "Jogo atrasado da 4ª rodada, disputado em 22/07 no Nilton Santos (não confundir com a rodada 19 regular, que os dois times jogam depois). Temporada atual como base para os dois lados (ambos com amostra ampla de jogos em 2026). Botafogo tem o melhor ataque do Brasileirão (33 gols) combinado com defesa muito vulnerável (19ª pior do campeonato, 32 sofridos), padrão que se mantém mesmo após a pausa: em 5 dos últimos 6 jogos ultrapassou 2.5 gols combinados, e marcou e sofreu gols em 3 dos últimos 4. Vitória também ofensivo e frágil atrás: BTTS em 4 dos últimos 5 jogos antes da pausa, média combinada do confronto de 3.3 gols/jogo, e em 7 dos últimos 8 jogos do Vitória a soma de gols passou de 3. Confronto direto reforça como checagem secundária: 8 dos últimos 15 encontros tiveram gols dos dois lados. Fontes cruzadas: sofascore (via X/SofascoreBR), goal.com, trivela.com.br, academiadasapostasbrasil.com. Odd de Over 2.5 encontrada em duas fontes (bet365 via goal.com: 1.90 e 2.15 em datas próximas) - usando a mais conservadora (1.90), acima do mínimo do mercado (1.60).",
+    "justificativa_resumo": "Jogo atrasado da 4ª rodada, disputado no Nilton Santos (não confundir com a rodada 19 regular, que os dois times jogam depois). Temporada atual como base para os dois lados (ambos com amostra ampla de jogos em 2026). Botafogo tem o melhor ataque do Brasileirão (33 gols) combinado com defesa muito vulnerável (19ª pior do campeonato, 32 sofridos), padrão que se mantém mesmo após a pausa: em 5 dos últimos 6 jogos ultrapassou 2.5 gols combinados, e marcou e sofreu gols em 3 dos últimos 4. Vitória também ofensivo e frágil atrás: BTTS em 4 dos últimos 5 jogos antes da pausa, média combinada do confronto de 3.3 gols/jogo, e em 7 dos últimos 8 jogos do Vitória a soma de gols passou de 3. Confronto direto reforça como checagem secundária: 8 dos últimos 15 encontros tiveram gols dos dois lados. Fontes cruzadas: sofascore (via X/SofascoreBR), goal.com, trivela.com.br, academiadasapostasbrasil.com. Odd de Over 2.5 encontrada em duas fontes (bet365 via goal.com: 1.90 e 2.15 em datas próximas) - usando a mais conservadora (1.90), acima do mínimo do mercado (1.60).",
     "status": "pendente",
     "resultado_real": null,
-    "observacoes": ""
+    "observacoes": "Correção de data: a busca de verificação de resultados (23/07) mostrou que este jogo, na verdade, está marcado para 23/07 às 19h30, e não foi disputado em 22/07 como constava originalmente no registro (erro de leitura de data na análise original, corrigido no campo data_jogo). Como o jogo ainda não aconteceu, mantido como pendente para verificação em análise futura."
   },
   {
     "id": "2026-07-22-coritiba-x-palmeiras-vencedor",
@@ -128,11 +128,11 @@
     "jogador": null,
     "odd_referencia": 1.95,
     "stake": 100,
-    "lucro": null,
+    "lucro": 95,
     "confianca": "Alta",
     "justificativa_resumo": "19ª rodada, 22/07 no Couto Pereira. Temporada atual como base para os dois lados. Palmeiras lidera o Brasileirão com folga (41 pts em 18 rodadas), com apenas 1 derrota nos últimos 12 jogos como visitante e sequência recente de 4 vitórias e 1 empate nos últimos 5 jogos gerais; em casa nesta temporada tem 100% de aproveitamento (5V em 5). Coritiba está em 7º (26 pts, gap de 15 pontos), oscilando (2V 2E 1D nos últimos 5) e com defesa instável recentemente (sofreu 2+ gols em 5 dos últimos 6 jogos oficiais). Ressalva de cautela: Coritiba está invicto há 6 jogos em seu próprio estádio nesta temporada, o que reduz um pouco a segurança do pick, mas o retrospecto direto reforça Palmeiras (3 derrotas seguidas do Coritiba no confronto por 2+ gols de diferença), usado aqui apenas como reforço secundário. Fontes cruzadas: netvasco.com.br, oddschecker.com/br (odds 1.97 e 1.95 em casas diferentes - Betfair e outra, usando a mais conservadora), academiadasapostasbrasil.com para desfalques (Palmeiras sem Jefté, Giay lesionados, Allan e Paulinho suspensos, Flaco López em recesso; Coritiba sem Pedro Rocha suspenso e Fabinho/Lucas Taverna lesionados).",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Palmeiras 3 x 1 Coritiba (Maurício 9', Ramón Sosa 18' e 67' para o Palmeiras; Paulo Roberto 68' para o Coritiba). Fonte: abcdoabc.com.br, flashscore.com.br.",
     "observacoes": ""
   },
   {
@@ -145,12 +145,12 @@
     "jogador": null,
     "odd_referencia": 1.98,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Média-Alta",
     "justificativa_resumo": "19ª rodada, 22/07 no Morumbi. Temporada atual como base para os dois lados. Ressalva de posição na tabela: Athletico-PR (4º) está hoje à frente do São Paulo (8º) na classificação geral, então o pick não se apoia na posição na tabela, e sim na divergência forte de desempenho por mando de campo: São Paulo tem 5V 2E 1D nos últimos 8 jogos em casa nesta edição do Brasileirão (10V 3E 2D em casa em todas as competições, 26 gols marcados x 11 sofridos), enquanto o Athletico-PR tem apenas 1 vitória em 5 jogos fora pelo Brasileirão (5 marcados x 9 sofridos) e, olhando as últimas 30 partidas como visitante em geral, 4V 3E 8D. O Athletico ainda desfalca o artilheiro Isidro Pitta. São Paulo também tem desfalques (Lucas Moura com ruptura de tendão de Aquiles, Wendell e Luciano Neves suspensos), o que reduz um pouco a confiança, mas o padrão casa/fora e a ausência do centroavante adversário sustentam o pick. Fontes cruzadas: netvasco.com.br, netflu.com.br, academiadasapostasbrasil.com (odds 1.98 e 2.02 em casas diferentes, usando a mais conservadora).",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "São Paulo 1 x 2 Athletico-PR (Artur em cobrança de falta no 1T para o São Paulo; Leozinho marcou duas vezes em 6 minutos no início do 2T para o Athletico-PR, decidindo o jogo). Fonte: saopaulofc.net, lance.com.br, gazetaesportiva.com.",
+    "observacoes": "Erro de leitura parcial, agravado por variância pontual. O racional se apoiava no forte desempenho do São Paulo como mandante, mas o time entrou em campo desfalcado (Lucas Moura fora com ruptura de tendão, Wendell e Luciano Neves suspensos, Cauly e Bobadilla como dúvidas, Maik e Ryan Francisco também fora) - um nível de desfalque relevante que já havia sido citado na análise mas parece ter pesado menos do que deveria na conclusão final, já que o time perdeu justamente a solidez defensiva que sustentava o pick. Além disso, o São Paulo estava numa sequência de 6 jogos sem vencer no Brasileirão mesmo antes desta partida (dado que não apareceu nas fontes usadas na análise original), o que já indicava fragilidade de momento maior do que o padrão histórico de mando de campo sugeria. Padrão a observar: quando um time mandante favorito pelo mando de campo acumula desfalques defensivos relevantes E vem de sequência sem vitória, o fator mando de campo perde força preditiva e não deveria sozinho sustentar uma recomendação de Vencedor."
   },
   {
     "id": "2026-07-22-internacional-x-cruzeiro-btts",
@@ -162,11 +162,11 @@
     "jogador": null,
     "odd_referencia": 1.8,
     "stake": 100,
-    "lucro": null,
+    "lucro": 80,
     "confianca": "Alta",
     "justificativa_resumo": "19ª rodada, 22/07 no Beira-Rio. Temporada atual como base para os dois lados. Cruzeiro chega de sequência invicta de 8 jogos (4V 4E) com 15 gols marcados nesse período e tem a pior defesa do Brasileirão como visitante (20 gols sofridos, média de 2/jogo, sem vencer fora). Internacional é o 3º pior mandante da Série A (3V 2E 4D em casa) e vem de 2 derrotas seguidas sofrendo gols (3-1 do Bragantino, 2-0 do Vitória) antes de vencer o Vasco por 4-1; o ataque do Inter fez gols em 9 dos últimos 10 jogos, e o do Cruzeiro em 9 dos últimos 10 também. A combinação de dois ataques em boa fase com duas defesas vulneráveis (Inter em casa, Cruzeiro fora) sustenta o mercado. Fontes cruzadas: netvasco.com.br, oddschecker.com/br, otempo.com.br, itatiaia.com.br, bolavip.com (odds de BTTS entre 1.80 e 1.82 em fontes diferentes, usando a mais conservadora). Sem desfalques decisivos identificados de nenhum dos lados; única dúvida é tática (Inter definindo entre Vitinho falso 9 ou Alerrandro como referência), o que não compromete o racional.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Internacional 1 x 2 Cruzeiro (Kaio Jorge 11'1T e Matheus Pereira 20'2T para o Cruzeiro; Carbonero 38'2T para o Internacional). Fonte: lance.com.br, opovo.com.br.",
     "observacoes": ""
   },
   {
@@ -179,11 +179,11 @@
     "jogador": null,
     "odd_referencia": 1.82,
     "stake": 100,
-    "lucro": null,
+    "lucro": 82,
     "confianca": "Alta",
     "justificativa_resumo": "19ª rodada, 22/07 na Arena Condá. Temporada atual como base para os dois lados. Chapecoense é a lanterna isolada e tem de longe a pior defesa da Série A (26 gols sofridos em 13 jogos citados pela Sofascore, ~2/jogo, e 35 sofridos em 18 jogos por outra contagem que inclui todos os jogos da rodada). Flamengo retorna com força total após a pausa (Léo Pereira, Alex Sandro, Danilo, Varela reincorporados; Pedro, Bruno Henrique e Samuel Lino confirmados no ataque), sendo vice-líder e um dos favoritos ao título, amplo favorito no mercado de resultado (odd de 1.46, abaixo do mínimo do mercado, por isso não recomendado como Vencedor). O padrão de gols sofridos do Chapecoense é sistemático (pior defesa cedida da liga) e não pontual, o que dá segurança ao Over 2.5 mesmo com o ataque fraco da Chape (17 gols em 18 jogos): basta o Flamengo (favorito claro, com Pedro artilheiro do time em 2026) marcar 2-3 vezes, algo recorrente com o time em força máxima. Fontes cruzadas: netvasco.com.br (odd 1.82-1.93 dependendo da casa), betfair (odd citada como 1.84), terra.com.br e lance.com.br para escalação/desfalques. Ressalva: BTTS não recomendado apesar de aparentemente atrativo, pois o ataque da Chapecoense é o pior ou um dos piores do campeonato e o time volta de derrota por 2-0 sem marcar; prefere-se Over 2.5, que não depende do time da casa balançar a rede.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Flamengo 4 x 0 Chapecoense (Lorran, Pedro duas vezes, e gol contra de Rafael Thyere). Fonte: band.com.br, espn.com.",
     "observacoes": ""
   },
   {
@@ -196,12 +196,12 @@
     "jogador": null,
     "odd_referencia": 1.71,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Média-Alta",
     "justificativa_resumo": "MLS, 22/07, TQL Stadium (Cincinnati manda o jogo). Temporada atual como base para os dois lados (Cincinnati 15 jogos, Vancouver 14 jogos - ambos acima do piso de 10 jogos definido no processo). Vancouver Whitecaps lidera a Conferência Oeste com folga (10V 2E 2D em 14 jogos), com defesa muito sólida (34 gols marcados x apenas 12 sofridos). Cincinnati é um time mediano na Conferência Leste (5V 5E 5D em 15 jogos), sem uma diferença de nível claramente a seu favor mesmo jogando em casa. A folga de rendimento entre os dois é grande o suficiente para justificar o mercado mesmo com Vancouver como visitante. Fontes cruzadas: sportskeeda.com, squawka.com (bet365: Vancouver -140 ≈ 1.71 decimal; outra casa via mesma busca: Stake ~1.78; outras casas entre -120 e -130 ≈ 1.77-1.83) - usando a odd mais conservadora (1.71, bet365). Confiança reduzida a Média-Alta (não Alta) por depender de fontes de odds americanas agregadas via busca, sem cobertura tão profunda quanto o Brasileirão nesta análise, e por Cincinnati jogar em casa.",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "FC Cincinnati 4 x 3 Vancouver Whitecaps (Pavel Bucha marcou duas vezes, Evander e Kevin Denkey completaram para o Cincinnati). Fonte: espn.com, washingtonpost.com, fccincinnati.com.",
+    "observacoes": "Erro de leitura de processo, não estatístico pontual - ligado ao contexto de retorno de pausa. O racional (defesa de elite do Vancouver, 12 gols sofridos em 14 jogos) era coerente com os dados pré-pausa, mas este foi o primeiro jogo do Vancouver após o intervalo de ~7 semanas para a Copa do Mundo (com jogadores de 22 clubes/17 países retornando aos times, segundo cobertura da imprensa da MLS), e a defesa que era elite sofreu 4 gols - o dobro da média que sustentava a entrada. Ver padrão consolidado nas observações do jogo Sporting KC x Minnesota abaixo."
   },
   {
     "id": "2026-07-22-sportingkc-x-minnesota-vencedor",
@@ -213,12 +213,12 @@
     "jogador": null,
     "odd_referencia": 1.92,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Média-Alta",
     "justificativa_resumo": "Reanálise de MLS: rodada completa do dia (Week 17, retorno da pausa da Copa) tinha 15 jogos, não 2 como cobertos inicialmente. Temporada atual como base para os dois lados (SKC 15 jogos, Minnesota 15 jogos). Sporting KC é lanterna isolado do Oeste (11 pts, saldo -23, apenas 3V em 15 jogos) e tem a pior defesa da MLS: 39 gols sofridos em 15 jogos, conceder gol em cada um dos últimos 15 jogos seguidos (fraqueza sistemática, não pontual). Minnesota está em posição de playoff (8º), com forma fora de casa sólida (4V 1E 3D nos jogos como visitante). Mesmo com forma geral recente mista de Minnesota (1V nos últimos 5 no geral), o mercado precifica a fragilidade histórica e contínua do SKC, favorito reverso mesmo jogando fora. Fontes cruzadas: oddsshark.com, futbol24.com, sportytrader.com, reportingkc.com/ESPN para os números de gols sofridos (odd de vencedor entre 1.92 do bet365 e 2.02 do 1xbet, usando a mais conservadora).",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "Sporting Kansas City 2 x 1 Minnesota United (Dejan Joveljić 28' e Manu García 54' para o SKC; Devin Padelford 75' para o Minnesota). Fonte: espn.com, washingtonpost.com, cbsnews.com.",
+    "observacoes": "Erro de leitura de processo, mesmo padrão do jogo Cincinnati x Vancouver acima. O SKC (lanterna, pior defesa da MLS pré-pausa, gol sofrido em 15 jogos seguidos) surpreendeu justamente no primeiro jogo após a pausa da Copa do Mundo, abrindo 2-0 antes de sofrer só 1 gol aos 75'. PADRÃO IDENTIFICADO (repetido em 4 dos 4 jogos de MLS com pick de Vencedor da Partida neste lote, todos no primeiro jogo de cada time após a pausa de ~7 semanas para a Copa do Mundo): a volta de um hiato longo (recesso por torneio internacional) reseta a forma dos times de forma imprevisível - defesas historicamente fracas melhoram, ataques historicamente fortes travam, e times zebra vencem ou empatam contra favoritos claros na tabela. Isso não invalida os dados de forma pré-pausa como sinal geral de qualidade do elenco, mas reduz fortemente o poder preditivo desses dados especificamente para o mercado Vencedor da Partida no jogo de retorno. AJUSTE DE PROCESSO: evitar recomendar Vencedor da Partida para times disputando o primeiro jogo após uma pausa longa (Copa do Mundo, interrupções de mais de ~3-4 semanas), mesmo com diferença clara de forma/tabela - nesses casos, se houver entrada, preferir Over 2.5 ou Ambas Marcam, que nesta mesma rodada de retorno da MLS acertaram 2 de 2 (Houston x DC United BTTS e San Jose x Orlando Over 2.5), sugerindo que o volume de chances/gols é mais estável que o resultado pontual mesmo com rusticidade dos times."
   },
   {
     "id": "2026-07-22-newengland-x-toronto-vencedor",
@@ -230,12 +230,12 @@
     "jogador": null,
     "odd_referencia": 1.92,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Alta",
     "justificativa_resumo": "Parte da reanálise da rodada completa da MLS em 22/07. Temporada atual como base para os dois lados (ambos com 14-15 jogos). New England é 4º/8º colocado geral, com excelente mando de campo (7V 1D em Foxborough, empatado no topo da liga em vitórias em casa) e 3ª melhor defesa do Leste (18 gols sofridos, 22 marcados). Toronto está entre os piores da liga (3V 6E 6D, 14-15 pts) e não vence desde o início de abril. Diferença de forma e de mando de campo é clara o suficiente para justificar o mercado (não é jogo parelho). Fontes cruzadas: revolutionsoccer.net (site oficial), sportskeeda.com, dimers.com (modelo apontou 55-57% de probabilidade para New England). Odd entre 1.92 (bet365, -109) e 2.00 (Betwinner), usando a mais conservadora.",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "New England Revolution 0 x 0 Toronto FC. Fonte: espn.com, washingtonpost.com, revolutionsoccer.net.",
+    "observacoes": "Mesmo padrão de retorno de pausa (ver observações do jogo Sporting KC x Minnesota). O goleiro do Toronto, Luka Gavran, fez seu segundo jogo seguido sem sofrer gol - dado de forma recente do goleiro que não estava disponível/ponderado corretamente na análise original, que descreveu o Toronto genericamente como 'sem vencer desde abril' sem checar a forma específica do gol adversário. Essa foi uma entrada de confiança 'Alta' que errou feio (nem sequer um gol saiu), reforçando que mesmo diferenças grandes de tabela não protegem o mercado Vencedor da Partida no contexto de retorno de pausa longa."
   },
   {
     "id": "2026-07-22-charlotte-x-atlanta-vencedor",
@@ -247,12 +247,12 @@
     "jogador": null,
     "odd_referencia": 1.8,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Média-Alta",
     "justificativa_resumo": "Parte da reanálise da rodada completa da MLS em 22/07. Temporada atual como base para os dois lados (ambos ~15 jogos). Diferença de pontos clara na tabela: Charlotte com 21 pts x Atlanta com 11 pts (número de pontos do Atlanta confirmado em duas fontes independentes, embora a posição exata na conferência tenha variado entre fontes). Atlanta é um dos piores ataques/defesas da liga nesta fase da temporada e retornou da pausa da Copa perdendo por 1-0 para o líder Nashville sem conseguir marcar. Charlotte joga em casa. Ressalva: algumas fontes trouxeram dados de 'últimos 5 jogos' contraditórios entre si (uma delas sugeria Atlanta com boa forma recente, o que destoa fortemente da diferença de pontos e da notícia de derrota sem gols contra o Nashville) - por isso a confiança foi reduzida para Média-Alta em vez de Alta, e o racional se apoia primariamente na diferença de pontos/deficits estruturais do Atlanta, não no dado de forma recente conflitante. Fontes cruzadas para a odd: wincomparator.com (1xbet, 1.86) e fanatics via realgm (-125 ≈ 1.80) - usando a mais conservadora (1.80).",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "Charlotte FC 2 x 2 Atlanta United (Kerwin Vargas e Liel Abada no 1T para o Charlotte, que chegou a liderar por 2-0; Elías Báez e Miguel Almirón no 2T empataram para o Atlanta). Fonte: espn.com, washingtonpost.com, scarvesandspikes.com.",
+    "observacoes": "Mesmo padrão de retorno de pausa (ver observações do jogo Sporting KC x Minnesota). Atlanta, descrito na análise como um dos piores ataques/defesas da liga vindo de derrota sem gol para o Nashville, buscou uma reação de 2 gols no 2º tempo contra o mandante que abria 2-0 - reforça o padrão de times 'fracos' reagindo de forma imprevisível no jogo de retorno."
   },
   {
     "id": "2026-07-22-houston-x-dcunited-btts",
@@ -264,11 +264,11 @@
     "jogador": null,
     "odd_referencia": 1.7,
     "stake": 100,
-    "lucro": null,
+    "lucro": 70,
     "confianca": "Média",
     "justificativa_resumo": "Parte da reanálise da rodada completa da MLS em 22/07. Temporada atual como base para os dois lados. Houston marcou mais de 1.5 gols em 64% dos jogos na temporada e deixou de manter o gol invicto (sofreu gol) em 71% dos jogos; D.C. United marcou mais de 1.5 gols em 67% dos jogos e sofreu gol em 73% dos jogos - ambos os times marcam e sofrem com frequência de forma consistente, não pontual. Houston é favorito no jogo (odd de vencedor ~1.63-1.71) mas isso não impede o padrão de ambos marcarem, dado o histórico defensivo de ambos os lados. Fonte: sportsgambler.com/agregadores (BTTS Yes a -143 ≈ 1.70). Confiança Média por depender de estatísticas agregadas sem quebra detalhada de jogo a jogo dos últimos 6-10 confrontos.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Houston Dynamo 1 x 1 D.C. United (Héctor Herrera no 1T para o Houston; Tai Baribo aos 78' para o D.C. United). Fonte: espn.com, washingtonpost.com, houstondynamofc.com.",
     "observacoes": ""
   },
   {
@@ -281,11 +281,11 @@
     "jogador": null,
     "odd_referencia": 1.69,
     "stake": 100,
-    "lucro": null,
+    "lucro": 69,
     "confianca": "Alta",
     "justificativa_resumo": "Parte da reanálise da rodada completa da MLS em 22/07. Temporada atual como base para os dois lados. San Jose é 2º colocado do Oeste (32 pts), com ataque forte (Preston Judd like lidera artilharia do time) e defesa de elite na liga (uma das melhores da MLS na temporada). Orlando City tem a pior defesa da MLS: 44 gols sofridos em 15 jogos (~2.93/jogo), perdeu 9 dos 15 jogos disputados. A combinação de um time com ataque de nível de topo de tabela contra a pior defesa da liga sustenta o Over 2.5 mesmo sem depender do Orlando marcar. Fontes cruzadas: yardbarker.com, themaneland.com, footystats.org (goals conceded table) para os números de gols; odd de Over 2.5 em -145 na FanDuel (≈1.69), acima do mínimo do mercado.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "San Jose Earthquakes 0 x 4 Orlando City. Fonte: espn.com, oursportscentral.com.",
     "observacoes": ""
   }
 ]
