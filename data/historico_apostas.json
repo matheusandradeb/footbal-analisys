@@ -457,5 +457,22 @@
     "status": "pendente",
     "resultado_real": null,
     "observacoes": ""
+  },
+  {
+    "id": "2026-07-26-malmo-x-elfsborg-over25",
+    "data_analise": "2026-07-26",
+    "data_jogo": "2026-07-26",
+    "liga": "Suécia - Allsvenskan",
+    "confronto": "Malmö FF x IF Elfsborg",
+    "mercado": "Over 2.5",
+    "jogador": null,
+    "odd_referencia": 1.66,
+    "stake": 100,
+    "lucro": null,
+    "confianca": "Alta",
+    "justificativa_resumo": "Reanálise de calendário completo de Suécia/Suíça/Noruega em 26/07 (busca inicial havia perdido jogos dessas 3 ligas). Rodada de Allsvenskan em Eleda Stadion, 26/07. Temporada atual como base para os dois lados (ambos com amostra de 13+ jogos). Malmö (6º colocado) está invicto nos últimos 5 jogos, com 7 pontos nos últimos 3 e 12 gols marcados nas últimas 5 partidas (~2.4/jogo); especificamente em casa, os últimos 9 jogos do Malmö no próprio estádio tiveram mais de 2.5 gols - sinal forte e específico de mando de campo, não só média geral. Elfsborg (9º colocado) está sem vencer há 7 jogos, perdeu as 3 últimas partidas, e como visitante tem defesa vulnerável (média de 1.87 gols sofridos/jogo fora). Há divergência entre fontes sobre a forma recente exata de Elfsborg (uma fonte descreveu a campanha geral como 'muito boa', destoando da narrativa de 3 derrotas seguidas nas demais) - usado como ressalva de cautela, mas o dado de gols sofridos fora (1.87/jogo) é consistente e sustenta o mercado de Over 2.5 independentemente da forma geral de resultados. H2H usado apenas como reforço secundário (Over 2.5 em 4 dos últimos 5 confrontos diretos). Modelo estatístico (footballpredictions.ai) estima 70% de probabilidade para Over 2.5. Fontes cruzadas: mightytips.com (odd 1.66), sportsgambler.com/betmines.com (odd 1.67-1.68, -147) - usando a mais conservadora (1.66), acima do mínimo do mercado (1.60). Vencedor da Partida (Malmö, odd 1.85) foi cogitado mas descartado para evitar sobreposição de mercado no mesmo jogo (regra de disciplina) e por a diferença de tabela não ser tão ampla (6º x 9º) a ponto de justificar confiança Alta genuína sem ressalva.",
+    "status": "pendente",
+    "resultado_real": null,
+    "observacoes": ""
   }
 ]
