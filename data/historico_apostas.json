@@ -417,12 +417,12 @@
     "jogador": null,
     "odd_referencia": 1.62,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Alta",
     "justificativa_resumo": "20ª rodada, 26/07 no Allianz Parque (Nubank Parque), 19h30. Temporada atual como base para os dois lados (amostra ampla). Palmeiras é líder isolado (44 pts), invicto há 13 rodadas no Brasileirão e, especificamente em casa, está invicto há 19 jogos consecutivos (14V 5E desde julho/2025) - fator estrutural e sustentado, não pontual. Atlético-MG é 13º colocado (25 pts) e tem o pior aproveitamento como visitante da liga: em 7 jogos fora, 1V 6D, 5 gols marcados x 9 sofridos (14% de aproveitamento), sem vencer fora desde junho. Ambos os lados têm desfalques (Palmeiras: Allan suspenso, Jefté em cirurgia, Ríos lesionado, Piquerez suspenso; Atlético: Patrick, Scarpa, Índio, Léo Duarte, Maycon lesionados, Román suspenso), mas essas ausências já fazem parte do padrão de rotação de elenco ao longo da campanha de ambos os times e não alteram a tese central (dominância em casa do Palmeiras x fragilidade crônica do Atlético fora), por isso não tratadas como red flag desqualificante. Fontes cruzadas: palmeiras.com.br (invencibilidade), lance.com.br e itatiaia.com.br/otempo.com.br (aproveitamento do Atlético fora), sportytrader.com (odd 1.62 via casa mais conservadora, outra fonte com 1.67).",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "Palmeiras 1 x 2 Atlético-MG (Victor Hugo e Igor Gomes para o Atlético-MG; Felipe Anderson descontou para o Palmeiras). Atlético subiu para 8º com 28 pts; Palmeiras seguiu líder com 44 pts, mas teve encerrada invencibilidade de mais de um ano em casa. Fonte: metropoles.com, ogol.com.br, soccerway.com.",
+    "observacoes": "Erro de leitura, não variância pura. A lista de desfalques usada na análise (Allan, Jefté, Ríos, Piquerez) estava desatualizada/incompleta: a escalação real do Palmeiras para o jogo teve pelo menos 4 desfalques concentrados especificamente na defesa/lateral (Khellven suspenso, Barboza suspenso, Ramón Sosa suspenso, além de Jefté lesionado), um volume de ausências na mesma linha muito maior do que o citado, que não foi tratado como red flag desqualificante e deveria ter sido - justamente a linha que sustentava a invencibilidade em casa. PADRÃO: quando 3+ desfalques se concentram na mesma linha/setor (defesa, no caso), isso deixa de ser 'rotação normal de elenco' e passa a ser um fator estrutural que compromete a tese principal do pick - ver ajuste de processo incorporado no arquivo do agente."
   },
   {
     "id": "2026-07-26-bahia-x-corinthians-btts",
@@ -434,11 +434,11 @@
     "jogador": null,
     "odd_referencia": 1.8,
     "stake": 100,
-    "lucro": null,
+    "lucro": 80,
     "confianca": "Alta",
     "justificativa_resumo": "20ª rodada, 26/07 na Arena Fonte Nova, 16h. Temporada atual como base para os dois lados. Bahia tem 67% de jogos com BTTS na temporada e média de 2.78 gols somados por jogo, mas defesa em queda livre recente (sofreu 16 gols nos últimos 8 jogos, ~2/jogo, e leva 2+ gols em 41% dos jogos de 2026); chega ainda mais vulnerável por desfalques diretos na defesa e no gol (Kanu suspenso, Léo Vieira - goleiro titular - e Ruan Pablo lesionados). Corinthians tem média ofensiva fraca na temporada completa (menos de 1 gol/jogo), mas isso reflete em boa parte o período anterior à chegada de Fernando Diniz (a partir de abril): nos jogos mais recentes sob o novo técnico, o time goleou Remo por 3-0 (23/07) e venceu por 3-1 dias antes, mostrando produção ofensiva claramente acima da média da temporada cheia - sinal de que o dado agregado da temporada subestima o momento atual do ataque. A combinação de defesa baiana estruturalmente vulnerável e ainda mais desfalcada com um ataque corintiano em ascensão sustenta o mercado. Fontes cruzadas: bahianoticias.com.br, ecbahia.com (defesa do Bahia e desfalques), ogol.com.br/goal.com (resultados recentes do Corinthians), wincomparator.com e forebet.com (odd BTTS 1.80-1.82, usando a mais conservadora).",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Bahia 1 x 1 Corinthians (Angileri para o Corinthians aos 7' do 1T; David Duarte para o Bahia aos 48' do 1T). Jogo marcado por confusão generalizada e 3 gols anulados. Fonte: tribunadosertao.com.br, lance.com.br, corinthians.com.br.",
     "observacoes": ""
   },
   {
@@ -451,12 +451,12 @@
     "jogador": null,
     "odd_referencia": 1.88,
     "stake": 100,
-    "lucro": null,
+    "lucro": -100,
     "confianca": "Alta",
     "justificativa_resumo": "20ª rodada, 26/07 no Estádio Cícero de Souza Marques, 18h30. Temporada atual como base para os dois lados. Bragantino (5º, 30 pts) marcou em 8 dos últimos 10 jogos e sofreu em 7 deles - ataque forte e defesa permeável em conjunto -, com médias de casa fortes (xG >1.85/jogo, 14.8 finalizações/jogo como mandante). Coritiba (10º, 26 pts) também marcou e sofreu em 8 dos últimos 10 jogos, e nos últimos 2 jogos especificamente sofreu média de 3 gols/partida (perdeu por 1-3 para o Palmeiras na rodada anterior) - fragilidade defensiva recente aguda, não só histórica. A combinação de dois times que marcam e sofrem com frequência, com o mandante em boa fase ofensiva e o visitante em queda defensiva aguda, sustenta o Over 2.5 mesmo sem depender de um resultado específico. Fontes cruzadas: academiadasapostasbrasil.com (xG e finalizações do Bragantino), sportytrader.com e ogol.com.br (forma recente de ambos os lados), betfair (odd Over 2.5 de 1.88, consistente entre duas fontes).",
-    "status": "pendente",
-    "resultado_real": null,
-    "observacoes": ""
+    "status": "red",
+    "resultado_real": "Bragantino 0 x 0 Coritiba. Bragantino dominou e finalizou 20 vezes contra apenas 4 do Coritiba, mas não converteu nenhuma; Bragantino chegou a 8 jogos seguidos sem perder. Fonte: cnnbrasil.com.br, gazetaesportiva.com, bemparana.com.br.",
+    "observacoes": "Erro de leitura parcial + variância de conversão. O volume de criação do Bragantino se confirmou com folga (20 finalizações, muito acima da média de 14.8/jogo usada na análise), então o padrão ofensivo estava correto - mas a análise não checou os desfalques do próprio Bragantino por cartão vermelho: Agustín Sant'Anna e Fabinho foram expulsos no jogo anterior (empate com o Fluminense) e desfalcaram o time, o que não apareceu na busca original de 'lesões/suspensões' porque essas expulsões aconteceram poucos dias antes e não estavam nas fontes de desfalque consultadas. PADRÃO: buscas de desfalque devem incluir explicitamente 'cartão vermelho/expulsão jogo anterior' do próprio time mandante (não só do adversário), pois suspensões por expulsão recente são fáceis de escapar de uma varredura genérica de lesões."
   },
   {
     "id": "2026-07-26-malmo-x-elfsborg-over25",
@@ -468,11 +468,11 @@
     "jogador": null,
     "odd_referencia": 1.66,
     "stake": 100,
-    "lucro": null,
+    "lucro": 66,
     "confianca": "Alta",
     "justificativa_resumo": "Reanálise de calendário completo de Suécia/Suíça/Noruega em 26/07 (busca inicial havia perdido jogos dessas 3 ligas). Rodada de Allsvenskan em Eleda Stadion, 26/07. Temporada atual como base para os dois lados (ambos com amostra de 13+ jogos). Malmö (6º colocado) está invicto nos últimos 5 jogos, com 7 pontos nos últimos 3 e 12 gols marcados nas últimas 5 partidas (~2.4/jogo); especificamente em casa, os últimos 9 jogos do Malmö no próprio estádio tiveram mais de 2.5 gols - sinal forte e específico de mando de campo, não só média geral. Elfsborg (9º colocado) está sem vencer há 7 jogos, perdeu as 3 últimas partidas, e como visitante tem defesa vulnerável (média de 1.87 gols sofridos/jogo fora). Há divergência entre fontes sobre a forma recente exata de Elfsborg (uma fonte descreveu a campanha geral como 'muito boa', destoando da narrativa de 3 derrotas seguidas nas demais) - usado como ressalva de cautela, mas o dado de gols sofridos fora (1.87/jogo) é consistente e sustenta o mercado de Over 2.5 independentemente da forma geral de resultados. H2H usado apenas como reforço secundário (Over 2.5 em 4 dos últimos 5 confrontos diretos). Modelo estatístico (footballpredictions.ai) estima 70% de probabilidade para Over 2.5. Fontes cruzadas: mightytips.com (odd 1.66), sportsgambler.com/betmines.com (odd 1.67-1.68, -147) - usando a mais conservadora (1.66), acima do mínimo do mercado (1.60). Vencedor da Partida (Malmö, odd 1.85) foi cogitado mas descartado para evitar sobreposição de mercado no mesmo jogo (regra de disciplina) e por a diferença de tabela não ser tão ampla (6º x 9º) a ponto de justificar confiança Alta genuína sem ressalva.",
-    "status": "pendente",
-    "resultado_real": null,
+    "status": "green",
+    "resultado_real": "Malmö FF 1 x 2 IF Elfsborg (Arben Zeneli 5', Momoh Ibrahim Kamara 34' para o Elfsborg; Jens Stryger 22' para o Malmö). 3 gols na partida, cobrindo o Over 2.5. Fonte: mff.se, forebet.com.",
     "observacoes": ""
   }
 ]
