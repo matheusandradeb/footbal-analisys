@@ -474,5 +474,39 @@
     "status": "green",
     "resultado_real": "Malmö FF 1 x 2 IF Elfsborg (Arben Zeneli 5', Momoh Ibrahim Kamara 34' para o Elfsborg; Jens Stryger 22' para o Malmö). 3 gols na partida, cobrindo o Over 2.5. Fonte: mff.se, forebet.com.",
     "observacoes": ""
+  },
+  {
+    "id": "2026-08-22-internacional-x-atletico-mg-btts",
+    "data_analise": "2026-08-22",
+    "data_jogo": "2026-08-22",
+    "liga": "Brasileirão Série A",
+    "confronto": "Internacional x Atlético-MG",
+    "mercado": "Ambas Marcam",
+    "jogador": null,
+    "odd_referencia": 1.7,
+    "stake": 100,
+    "lucro": null,
+    "confianca": "Alta",
+    "justificativa_resumo": "24ª rodada, 22/08 às 18h30 no Beira-Rio. Temporada atual como base para os dois lados (amostra ampla). Forma recente individual como base principal (não H2H): ambas as equipes marcaram nos últimos 4 jogos do Internacional como mandante na Série A (fonte: netvasco.com.br/lance.com.br), e o Atlético-MG marcou em 4 dos últimos 5 jogos como visitante (mesma fonte) - os dois lados de fato marcam e sofrem com regularidade recente, satisfazendo o pré-requisito do mercado. Internacional vive um dos piores momentos da temporada (7 jogos sem vencer, a um ponto do Z-4), o que historicamente reduz a solidez defensiva em casa; Atlético-MG está de fato invicto há 10 jogos (6V 4E), mas seu ataque tem se mostrado consistente mesmo fora e a defesa perdeu dois zagueiros de rotação (Lyanco e Léo Duarte lesionados, concentração de apenas 2 desfalques na mesma linha, abaixo do limiar de 3+ que desqualificaria a entrada). Vencedor da Partida foi cogitado mas descartado: odds contraditórias entre casas (Internacional favorito a 2.08 apesar da forma pior, Atlético a 3.55 apesar da melhor forma) indicam divergência de leitura do mercado, um red flag que, pela regra de rigor elevado, desqualifica qualquer entrada de Vencedor neste jogo. Fontes cruzadas: netvasco.com.br, lance.com.br, academiadasapostasbrasil.com, atletico.com.br (odds de Ambas Marcam entre 1.70 e 1.82 em casas diferentes, usando a mais conservadora).",
+    "status": "pendente",
+    "resultado_real": null,
+    "observacoes": ""
+  },
+  {
+    "id": "2026-08-22-cruzeiro-x-flamengo-btts",
+    "data_analise": "2026-08-22",
+    "data_jogo": "2026-08-22",
+    "liga": "Brasileirão Série A",
+    "confronto": "Cruzeiro x Flamengo",
+    "mercado": "Ambas Marcam",
+    "jogador": null,
+    "odd_referencia": 1.73,
+    "stake": 100,
+    "lucro": null,
+    "confianca": "Alta",
+    "justificativa_resumo": "24ª rodada, 22/08 às 20h30 no Mineirão. Temporada atual como base para os dois lados. Forma recente individual como base principal: Flamengo venceu os últimos 5 jogos (100% de aproveitamento), marcando em todos eles (13 gols marcados, fonte: SofascoreBR/X) - ataque em excelente fase e consistente. Cruzeiro, apesar de estar em boa fase geral (4 vitórias nas últimas 5 rodadas, 5º colocado), teve nos últimos 5 jogos média de 2.8 gols somados por partida e 65% de BTTS (fonte: academiadasapostasbrasil.com/agregadores), e um jogo recente sem marcar (0x1 Botafogo) foi citado como exceção rara, não padrão - ou seja, ambos os lados marcam com regularidade recente, satisfazendo o pré-requisito do mercado. Cruzeiro chega em crise pontual de elenco para este jogo específico (mais de 10 desfalques somando lesões de longo prazo - Gabriel Pec, Sinisterra, Cássio - e suspensões por acúmulo de cartões vindas da Libertadores - Fagner, Matheus Henrique), o que fragiliza especificamente a defesa (lateral e goleiro afetados) e reforça a chance de o Flamengo marcar; do lado do Flamengo, os 5 desfalques (Alex Sandro, Vitão, De la Cruz, Cebolinha, Wallace Yan) não se concentram em uma única linha de forma a comprometer a tese (2 defensores, os demais ataque/meio), abaixo do limiar de 3+ na mesma linha que desqualificaria a entrada, e o time manteve a sequência de 100% de vitórias mesmo com essas ausências recorrentes. Vencedor da Partida (Flamengo) foi cogitado mas descartado para evitar sobreposição de mercado no mesmo jogo já coberto por Ambas Marcam. Fontes cruzadas: em.com.br, netvasco.com.br, sportytrader.com, wincomparator.com, centraldatoca.com.br, itatiaia.com.br (odds de Ambas Marcam entre 1.73 e 1.75 em casas diferentes, usando a mais conservadora).",
+    "status": "pendente",
+    "resultado_real": null,
+    "observacoes": ""
   }
 ]
